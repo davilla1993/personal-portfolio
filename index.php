@@ -332,7 +332,7 @@
 								<div class="row">
 								  	<div class="column mix mix_all graphic development application mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://evergreen-bookstore.herokuapp.com">
+											<a href="https://evergreen-bookstore.herokuapp.com" target="_blank">
 												<img src="images/portfolio/bookstore/user.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
@@ -364,7 +364,7 @@
 									</div>
 									<div class="column mix mix_all design application mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://pyramid-fasfood.herokuapp.com" data-fancybox="gallery">
+											<a href="https://pyramid-fasfood.herokuapp.com" target="_blank">
 												<img src="images/portfolio/fastfood/user.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
@@ -396,7 +396,7 @@
 									</div>
 									<div class="column mix mix_all graphic application mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://task-manager.herokuapp.com" data-fancybox="gallery">
+											<a href="https://task-manager.herokuapp.com" target="_blank">
 												<img src="images/portfolio/task/login.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
@@ -428,7 +428,7 @@
 									</div>
 									<div class="column mix mix_all application mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://budget-app.herokuapp.com" data-fancybox="gallery">
+											<a href="https://budget-app.herokuapp.com" target="_blank"">
 												<img src="images/portfolio/bugetApp/02.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
@@ -444,7 +444,7 @@
 									</div>
 									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://travelix.herokuapp.com" data-fancybox="gallery">
+											<a href="https://travelix.herokuapp.com" target="_blank">
 												<img src="images/portfolio/travelix/01.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
