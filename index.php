@@ -258,8 +258,8 @@
 				<div class="col-md-12 col-lg-12">
 					<div class="section_title_1 text-center mx-auto pb_60 wow animated slideInUp">
 	                    <h2 class="title text-uppercase color_white"><span class="line_double mx-auto color_default">services</span>ce que je fais</h2>
-	                    <span class="sub_title color_lightgray">Conception de sites vitrines codés à la main, sites wordpress, applications web avec contrôle administrateur, création 
-							et gestion de communautés sur les réseaux sociaux communément appelée Community management</span>
+	                    <span class="sub_title color_lightgray">Conception de sites vitrines codés à la main, sites wordpress, applications web avec contrôle administrateur / 
+									modélisation, traitement et analyse de données.</span>
 	                </div>
 				</div>
 				<div class="services_item1">
@@ -500,84 +500,7 @@
 	</section>
 	<!--	End Portfolio
 	===================================================-->
-	<!--	Start Testimonial
-	===================================================-->
-	<!--<section id="testimonial" class="py_80 bg_black full_row">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-12 col-lg-12">
-					<div class="section_title_1 color_white text-center mx-auto pb_60 wow animated slideInUp">
-	                    <h2 class="title text-uppercase"><span class="line_double mx-auto color_default">témoignages</span>Que disent les clients</h2>
-	                    <span class="sub_title color_lightgray">En tant que travailleur indépendant, j'ai eu à travailler pour des clients locaux mais aussi pour des 
-							clients extérieurs se trouvant en France, Belgique et Luxembourg.
-						</span>
-	                </div>
-				</div>
-				<div class="col-md-12 col-lg-12">
-    				<div class="testimonial_item owl-carousel wow animated slideInUp">
-    					<div class="member_feedback color_lightgray p_30">
-							<div class="client_img"><img src="images/testimonial/01.jpg" alt="image"></div>
-							<div class="star d-inline-block mt_30 color_default">
-								<ul>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-								</ul>
-							</div>
-							<h5 class="color_gray mb_15">Aisha Lexi</h5>
-							<p>Sem duis platea erat feugiat vivamus nascetur sapien tortor. Sollic dictum ultric. Aliquam inceptos bibendum fringilla sodales. Molest lacin urna per aenean commodo sociosqu.</p>
-						</div>
-						<div class="member_feedback color_lightgray p_30">
-							<div class="client_img"><img src="images/testimonial/02.jpg" alt="image"></div>
-							<div class="star d-inline-block mt_30 color_default">
-								<ul>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-								</ul>
-							</div>
-							<h5 class="color_gray mb_15">Kiara Paige</h5>
-							<p>Sem duis platea erat feugiat vivamus nascetur sapien tortor. Sollic dictum ultric. Aliquam inceptos bibendum fringilla sodales. Molest lacin urna per aenean commodo sociosqu.</p>
-						</div>
-						<div class="member_feedback color_lightgray p_30">
-							<div class="client_img"><img src="images/testimonial/03.jpg" alt="image"></div>
-							<div class="star d-inline-block mt_30 color_default">
-								<ul>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-								</ul>
-							</div>
-							<h5 class="color_gray mb_15">Lucas Noah</h5>
-							<p>Sem duis platea erat feugiat vivamus nascetur sapien tortor. Sollic dictum ultric. Aliquam inceptos bibendum fringilla sodales. Molest lacin urna per aenean commodo sociosqu.</p>
-						</div>
-						<div class="member_feedback color_lightgray p_30">
-							<div class="client_img"><img src="images/testimonial/04.jpg" alt="image"></div>
-							<div class="star d-inline-block mt_30 color_default">
-								<ul>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-									<li><i class="fa fa-star" aria-hidden="true"></i></li>
-								</ul>
-							</div>
-							<h5 class="color_gray mb_15">Grace Ruby</h5>
-							<p>Sem duis platea erat feugiat vivamus nascetur sapien tortor. Sollic dictum ultric. Aliquam inceptos bibendum fringilla sodales. Molest lacin urna per aenean commodo sociosqu.</p>
-						</div>
-    				</div>
-    			</div>
-			</div>
-		</div>
-	</section>-->
-	<!--	End Testimonial
-	===================================================-->
+	
 	<!--	Start formations
 	===================================================-->
 	<section id="training" class="py_80 bg_deepblack full_row">
@@ -660,7 +583,7 @@
 									<div class="column mix mix_all graphic design branding mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
 											<a href="images/formations/certif-cc.jpg" data-fancybox="gallery">
-												<img src="images/formations/data-analyse" alt="image" />
+												<img src="images/formations/data-analyse.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
 													<div class="tag">
