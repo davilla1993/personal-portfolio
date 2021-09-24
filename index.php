@@ -444,7 +444,7 @@
 									</div>
 									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://travelix.herokuapp.com" target="_blank">
+											<a href="https://travelix-hotel.herokuapp.com" target="_blank">
 												<img src="images/portfolio/travelix/01.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
@@ -460,7 +460,7 @@
 									</div>
 									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="https://folly-hotel.herokuapp.com" target="_blank">
+											<a href="https://lux-palace-hotel.herokuapp.com" target="_blank">
 												<img src="images/portfolio/lux-palace-hotel/lux-palace.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
