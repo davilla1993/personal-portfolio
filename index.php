@@ -458,6 +458,38 @@
 											</a>
 										</div>
 									</div>
+									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
+										<div class="default-portfolio-item">
+											<a href="https://folly-hotel.herokuapp.com" target="_blank">
+												<img src="images/portfolio/travelix/01.png" alt="image" />
+												<div class="overlay-box">
+													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
+													<div class="tag">
+														<ul>
+															<li>Folly Hôtel |</li>
+															<li>Accueil</li>
+														</ul>
+													</div>
+												</div>
+											</a>
+										</div>
+									</div>
+									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
+										<div class="default-portfolio-item">
+											<a href="https://kyoto-town.herokuapp.com" target="_blank">
+												<img src="images/portfolio/travelix/01.png" alt="image" />
+												<div class="overlay-box">
+													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
+													<div class="tag">
+														<ul>
+															<li>Kyoto Town |</li>
+															<li>Accueil</li>
+														</ul>
+													</div>
+												</div>
+											</a>
+										</div>
+									</div>
 								</div>
 							</div>
 						</div>		
