@@ -567,7 +567,7 @@
 									</div>
 									<div class="column mix mix_all graphic wordpress branding mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="images/formations/certif-google-marketing.jpg" data-fancybox="gallery">
+											<a href="images/formations/java-certif.png" data-fancybox="gallery">
 												<img src="images/formations/java-certif.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
@@ -582,7 +582,7 @@
 									</div>
 									<div class="column mix mix_all graphic design branding mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
-											<a href="images/formations/certif-cc.jpg" data-fancybox="gallery">
+											<a href="images/formations/data-analyse.png" data-fancybox="gallery">
 												<img src="images/formations/data-analyse.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
