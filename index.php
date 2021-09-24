@@ -461,12 +461,12 @@
 									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
 											<a href="https://folly-hotel.herokuapp.com" target="_blank">
-												<img src="images/portfolio/travelix/01.png" alt="image" />
+												<img src="images/portfolio/lux-palace-hotel/lux-palace.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
 													<div class="tag">
 														<ul>
-															<li>Folly Hôtel |</li>
+															<li>LUX-PALACE Hôtel |</li>
 															<li>Accueil</li>
 														</ul>
 													</div>
@@ -477,7 +477,7 @@
 									<div class="column mix mix_all site mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
 											<a href="https://kyoto-town.herokuapp.com" target="_blank">
-												<img src="images/portfolio/travelix/01.png" alt="image" />
+												<img src="images/portfolio/kyoto/kyoto.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
 													<div class="tag">
@@ -645,12 +645,12 @@
 									<div class="column mix mix_all graphic wordpress branding mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
 											<a href="images/formations/certif-google-marketing.jpg" data-fancybox="gallery">
-												<img src="images/formations/certif-google-marketing.jpg" alt="image" />
+												<img src="images/formations/java-certif.png" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
 													<div class="tag">
 														<ul>
-															<li>Certificat google markéting</li>
+															<li>Certificat en Java Servlet</li>
 														</ul>
 													</div>
 												</div>
@@ -660,12 +660,12 @@
 									<div class="column mix mix_all graphic design branding mb_30 col-md-4 col-lg-4">
 										<div class="default-portfolio-item">
 											<a href="images/formations/certif-cc.jpg" data-fancybox="gallery">
-												<img src="images/formations/certif-cc.jpg" alt="image" />
+												<img src="images/formations/data-analyse" alt="image" />
 												<div class="overlay-box">
 													<span><i class="fa fa-eye" aria-hidden="true"></i></span>
 													<div class="tag">
 														<ul>
-															<li>Certificat en conseiller client</li>
+															<li>Certificat en data analyse</li>
 														</ul>
 													</div>
 												</div>
