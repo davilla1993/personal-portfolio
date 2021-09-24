@@ -75,7 +75,7 @@
                             <span class="color_white">Je suis</span>
                             <span class="cd-words-wrapper color_default">
                                 <b class="is-visible">Développeur web.</b>
-                                <b>Community manager.</b>
+                                <b>Analyste de données.</b>
                                 <b>Freelancer.</b>
                             </span>
                         </h1>
@@ -95,7 +95,7 @@
 				<div class="col-md-12 col-lg-12">
 					<div class="section_title_1 text-center mx-auto pb_60 wow animated slideInUp">
 	                    <h2 class="title text-uppercase color_white"><span class="line_double mx-auto color_default">moi</span>à propos de moi</h2>
-	                    <span class="sub_title color_lightgray">Développeur web & Community manager.</span>
+	                    <span class="sub_title color_lightgray">Développeur web & Analyste de données.</span>
 	                </div>
 				</div>
 			</div>
@@ -286,10 +286,10 @@
 							<div class="col-md-6 col-lg-4">
 								<div class="service_two bg_gray color_lightgray text-center pt_15 mb_30 wow animated slideInUp">
 					              <div class="srv_item_number color_lightgray"><strong>03.</strong></div>
-					              <h3 class="p_20 text-uppercase color_primary">Community management</h3>
+					              <h3 class="p_20 text-uppercase color_primary">Analyse de données avec Excel</h3>
 					              <div class="srv_icon color_white"><span class="flaticon-internet"></span></div>
-					              <p>Création, paramétrage et gestion des comptes professionnels sur les résaux sociaux - Facebook Ads, Google Ads - E-mailing - Création des tunnels de vente 
-									  etc...</p>
+					              <p>Création et modélisation de bases de données, nettoyage des données, analyse et traitement des données, présentation des
+									  données dans un tableau de bord</p>
 								</div>
 							</div>
 							</div>
