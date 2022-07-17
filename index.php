@@ -74,8 +74,8 @@
                         <h1 class="cd-headline clip is-full-width text-uppercase">
                             <span class="color_white">Je suis</span>
                             <span class="cd-words-wrapper color_default">
-                                <b class="is-visible">Développeur web.</b>
-                                <b>Analyste de données.</b>
+                                <b class="is-visible">Développeur Web.</b>
+                                <b>Spécialisé en Java.</b>
                                 <b>Freelancer.</b>
                             </span>
                         </h1>
@@ -95,7 +95,7 @@
 				<div class="col-md-12 col-lg-12">
 					<div class="section_title_1 text-center mx-auto pb_60 wow animated slideInUp">
 	                    <h2 class="title text-uppercase color_white"><span class="line_double mx-auto color_default">moi</span>à propos de moi</h2>
-	                    <span class="sub_title color_lightgray">Développeur web & Analyste de données.</span>
+	                    <span class="sub_title color_lightgray">Développeur web.</span>
 	                </div>
 				</div>
 			</div>
@@ -103,10 +103,8 @@
 				<div class="row">
 					<div class="col-md-7 col-lg-7">
 						<div class="myself color_lightgray wow animated fadeInLeft">
-							<p> Je suis diplômé d'une Licence en organistaion et gestion des ressources humaines de l'Université de Lomé. Etant un grand passionné de l'informatique, 
-								j'ai également fait une formation de deux ans en informatique de gestion. La formation n'étant pas très pratique, j'ai poursuivi mon apprentissage de 
-								l'informatique notamment dans le développement web sur les plateformes en ligne telles que <b>openclassrooms, udemy, freecodecamp</b> dont je détiens plusieurs certificats.
-								Le chemin n'a pas été facile et je suis fier de mon pacours. J'exerce depuis 2018 le métier de développeur web freelance.</p>							
+							<p> Je suis un autodidacte dans l'âme. Passionné d'informatique depuis le collège, j'ai toujours rêvé d'en faire mon métier. J'ai commencé avec les cours sur openclassrooms. Je suis développeur web et logiciel ésentiellement avec Java, un langage que j'utilise depuis 2017. À vrai dire, je suis un passionné inconditionnel de Java et de tout son écoystème à savoir JEE, JSP, Servlets, Springboot et Thymeleaf.
+							</p>							
 						</div>
 						<div class="personal_info color_lightgray">
 							<div class="row">
