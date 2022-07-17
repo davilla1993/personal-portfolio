@@ -103,7 +103,7 @@
 				<div class="row">
 					<div class="col-md-7 col-lg-7">
 						<div class="myself color_lightgray wow animated fadeInLeft">
-							<p> Je suis un autodidacte dans l'âme. Passionné d'informatique depuis le collège, j'ai toujours rêvé d'en faire mon métier. J'ai commencé avec les cours sur openclassrooms. Je suis développeur web et logiciel ésentiellement avec Java, un langage que j'utilise depuis 2017. À vrai dire, je suis un passionné inconditionnel de Java et de tout son écoystème à savoir JEE, JSP, Servlets, Springboot et Thymeleaf.
+							<p> Je suis un autodidacte dans l'âme. Passionné d'informatique depuis le collège, j'ai toujours rêvé d'en faire mon métier. J'ai commencé avec les cours sur openclassrooms. Je suis développeur web et logiciel ésentiellement avec Java, un langage que j'utilise depuis 2017. Je suis un passionné inconditionnel de Java et de tout son écoystème à savoir JEE, JSP, Servlets, Springboot et Thymeleaf.
 							</p>							
 						</div>
 						<div class="personal_info color_lightgray">
